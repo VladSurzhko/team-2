@@ -1,0 +1,48 @@
+.about-restaurant{
+width: 414px;
+height: 1191px;
+background: #FFFDEE;
+
+}
+.text-restaurant{
+
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #B4B4B4;    
+}
+.title-about-restaurant{
+font-weight: 700;
+font-size: 40px;
+line-height: 43px;
+color: #494848;    
+}
+.text-about-restaurant{
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+letter-spacing: 0.02em;
+
+color: #7A7A7A;
+
+width: 258px;
+height: 76px;
+}
+.img-about-restuarant{
+display: flex;  
+flex-direction: column;
+align-items: flex-end;
+padding: 0;
+margin: 0;  
+}
+.photo-about-restaurant{
+
+}
+
+
+
+
+
+.img-about-restuarant{
+display: flex;    
+}
